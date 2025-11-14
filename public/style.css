@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0d6efd;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 100px;
+  padding: 40px;
+}
+
+.container.small {
+  margin-top: 150px;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.about {
+  font-size: 18px;
+  width: 70%;
+  margin: 20px auto;
+}
+
+.btn {
+  background: white;
+  color: #0d6efd;
+  padding: 12px 25px;
+  font-size: 18px;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+.input {
+  width: 250px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+footer {
+  margin-top: 60px;
+  padding: 20px;
+  background: rgba(0,0,0,0.25);
+  font-size: 18px;
+}
